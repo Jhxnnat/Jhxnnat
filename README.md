@@ -7,7 +7,7 @@ Things I Know:
 - JS/TS, NextJS, NestJS
 - Python, FastAPI, Flask
 - Bash, I like to make scripts!
-- Linux (love it)
+- Manage a Linux System
 - Docker, container orchestration
 - SQL
 
