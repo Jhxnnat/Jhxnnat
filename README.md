@@ -1,5 +1,4 @@
-# Hi, I'm Jhxnnat 👋
-
+```
 Systems engineer. I like Linux, servers, and keeping things simple.
 
 Things I Know:
@@ -11,3 +10,8 @@ Things I Know:
 - Linux (love it)
 - Docker, container orchestration
 - SQL
+
+Interested in:
+- Linux (eventually will learn BSD, and other Unix OSes)
+- Cloud native
+```
