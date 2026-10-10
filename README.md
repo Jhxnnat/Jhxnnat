@@ -1,17 +1,10 @@
-```
-Systems engineer. I like Linux, servers, and keeping things simple.
-
-Things I Know:
-
-- C (kinda)
-- JS/TS, NextJS, NestJS
-- Python, FastAPI, Flask
-- Bash, I like to make scripts!
-- Manage a Linux System
-- Docker, container orchestration
-- SQL
-
-Interested in:
-- Linux (eventually will learn BSD, and other Unix OSes)
-- Cloud native
-```
+- **Interests**: Servers, Cloud Native. (I'll eventually want to learn BSD and other Unix OSes)
+- **Education**: Systems Engineering at [UTB](https://github.com/ISCOUTB)
+- **Languages**: C, Python, Bash, JS/TS, SQL
+  - **Preferred**: C, Bash
+  - **Frameworks**: ReactJS, NextJS, NestJS
+- **Tools**: Git, Docker, VSCode
+- **Links**
+  - [**Website**](web.jhx.homes)
+  - **<a rel="me" href="https://mastodon.social/@jhxnnat">Mastodon</a>**
+  - [**Codeberg**](https://codeberg.org/jhxnnat)
